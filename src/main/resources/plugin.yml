@@ -1,0 +1,11 @@
+name: StaffChat
+version: ${project.version}
+main: com.exortions.staffchat.StaffChat
+api-version: 1.16
+authors: [ Exortions ]
+description: StaffChat is a highly customizable, lightweight plugin that allows server admins to converse privately.
+commands:
+  staffchat:
+    description: Main command for the StaffChat plugin.
+    aliases:
+      - sc
